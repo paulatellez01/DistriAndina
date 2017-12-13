@@ -1,8 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?><project name="TIENDA ONLINE " company="SISTEMA DE INFORMACION PARA DISTRIBUIDORAS DE PAPELERIAS" webLink="http://" view-date="2016-10-10" view-index="0" gantt-divider-location="691" resource-divider-location="509" version="2.8.1" locale="es_CR">
+<?xml version="1.0" encoding="UTF-8"?><project name="TIENDA ONLINE " company="SISTEMA DE INFORMACION PARA DISTRIBUIDORAS DE PAPELERIAS" webLink="http://" view-date="2017-01-02" view-index="0" gantt-divider-location="691" resource-divider-location="509" version="2.8.1" locale="es">
     <description/>
-    <view zooming-state="default:6" id="gantt-chart">
-        <field id="tpd3" name="Nombre" width="292" order="0"/>
-        <field id="tpd4" name="Fecha de inicio" width="160" order="1"/>
+    <view zooming-state="default:7" id="gantt-chart">
+        <field id="tpd3" name="Nombre" width="265" order="0"/>
+        <field id="tpd4" name="Fecha de inicio" width="187" order="1"/>
         <field id="tpd5" name="Fecha de fin" width="220" order="2"/>
         <option id="color.recent"><![CDATA[#00ff33 #ff0000 #000000 #f4f4f4 #660066 #006666 #ff6600 #000066 #0000cc #0000ff]]></option>
     </view>
@@ -41,38 +41,38 @@
             <task id="3" name="Identificacion del problema" color="#000066" meeting="false" start="2016-07-12" duration="6" complete="100" expand="true"/>
             <task id="5" name="diseñar y aplicar intrumentos p'ara la recoleccion de informacion" color="#000066" meeting="false" start="2016-07-18" duration="14" complete="100" expand="true"/>
             <task id="10" name="analisis de los resultados" color="#000066" meeting="false" start="2016-08-05" duration="6" complete="100" expand="true"/>
-            <task id="11" name="identificascion de los requerimientos funcionales y no funcionales" color="#000066" meeting="false" start="2016-08-16" duration="3" complete="100" expand="true"/>
+            <task id="11" name="identificscion de los requerimientos funcionales y no funcionales" color="#000066" meeting="false" start="2016-08-16" duration="3" complete="100" expand="true"/>
             <task id="13" name="elaboracion mapa de procesos" color="#000066" meeting="false" start="2016-08-18" duration="5" complete="100" expand="true"/>
             <task id="16" name="diagrama de cada proceso" color="#000066" meeting="false" start="2016-08-24" duration="11" complete="100" expand="true"/>
             <task id="20" name="diagrama  casos de uso" color="#000066" meeting="false" start="2016-09-07" duration="7" complete="100" expand="true"/>
             <task id="43" name="diagrama de uso extendido" color="#000066" meeting="false" start="2016-09-15" duration="6" complete="100" expand="true"/>
             <task id="23" name="informe parcial de la fase" color="#000066" meeting="false" start="2016-09-22" duration="1" complete="100" expand="true"/>
         </task>
-        <task id="27" name="PLANEACION" color="#000000" meeting="false" start="2016-09-27" duration="136" complete="29" expand="true">
+        <task id="27" name="PLANEACION" color="#000000" meeting="false" start="2016-09-27" duration="136" complete="90" expand="true">
             <task id="28" name="elaboracion diagrama de clases" color="#000066" meeting="false" start="2016-09-27" duration="3" complete="100" expand="true"/>
             <task id="29" name="diagrama de distribucion" color="#000066" meeting="false" start="2016-09-30" duration="4" complete="100" expand="true"/>
             <task id="30" name="elaboracion prototipo" color="#000066" meeting="false" start="2016-10-06" duration="7" complete="100" expand="true"/>
             <task id="31" name="diccionario de datos" color="#000066" meeting="false" start="2016-10-18" duration="8" complete="100" expand="true"/>
-            <task id="35" name="modelo conceptual de la solucion propuesta" color="#ff6600" meeting="false" start="2016-10-28" duration="1" complete="0" expand="true"/>
-            <task id="52" name="mini especificaciones" color="#ff6600" meeting="false" start="2016-10-31" duration="1" complete="0" expand="true"/>
-            <task id="53" name="base de datos" color="#ff6600" meeting="false" start="2016-10-31" duration="1" complete="0" expand="true"/>
-            <task id="57" name="realizacion plan de trabajo" color="#ff6600" meeting="false" start="2016-11-01" duration="4" complete="0" expand="true"/>
-            <task id="59" name="diseño arquitectura del sistema" color="#ff6600" meeting="false" start="2016-11-07" duration="5" complete="0" expand="true"/>
-            <task id="60" name="diseño de las clases, los objetos y mecanismos de colaaboracion" color="#ff6600" meeting="false" start="2016-11-14" duration="4" complete="0" expand="true"/>
-            <task id="61" name="diseñar el comportamiento de las clases y objetivos" color="#ff6600" meeting="false" start="2016-11-18" duration="3" complete="0" expand="true"/>
-            <task id="63" name="elaboracion diagrama de secuencias" color="#ff6600" meeting="false" start="2016-11-29" duration="6" complete="0" expand="true"/>
-            <task id="64" name="diseño interfaz del sistema de informacion" color="#ff6600" meeting="false" start="2016-12-07" duration="3" complete="0" expand="true"/>
-            <task id="66" name="diagrama de transicion de estado" color="#ff6600" meeting="false" start="2016-12-09" duration="2" complete="0" expand="true"/>
-            <task id="112" name="elaboracion base de datos" color="#ff6600" meeting="false" start="2016-12-10" duration="5" complete="0" expand="true"/>
-            <task id="77" name="diseño del control del sistema de informacion" color="#006666" meeting="false" start="2017-01-23" duration="8" complete="0" expand="true"/>
-            <task id="78" name="informe seleccion de las herramientas para el montaje del sistema de informacion" color="#006666" meeting="false" start="2017-02-01" duration="10" complete="0" expand="true"/>
+            <task id="35" name="modelo conceptual de la solucion propuesta" color="#ff6600" meeting="false" start="2016-10-28" duration="1" complete="100" expand="true"/>
+            <task id="52" name="mini especificaciones" color="#ff6600" meeting="false" start="2016-10-31" duration="1" complete="100" expand="true"/>
+            <task id="53" name="base de datos" color="#ff6600" meeting="false" start="2016-10-31" duration="1" complete="100" expand="true"/>
+            <task id="57" name="realizacion plan de trabajo" color="#ff6600" meeting="false" start="2016-11-01" duration="4" complete="100" expand="true"/>
+            <task id="59" name="diseño arquitectura del sistema" color="#ff6600" meeting="false" start="2016-11-07" duration="5" complete="100" expand="true"/>
+            <task id="60" name="diseño de las clases, los objetos y mecanismos de colaaboracion" color="#ff6600" meeting="false" start="2016-11-14" duration="4" complete="100" expand="true"/>
+            <task id="61" name="diseñar el comportamiento de las clases y objetivos" color="#ff6600" meeting="false" start="2016-11-18" duration="3" complete="100" expand="true"/>
+            <task id="63" name="elaboracion diagrama de secuencias" color="#ff6600" meeting="false" start="2016-11-29" duration="6" complete="100" expand="true"/>
+            <task id="64" name="diseño interfaz del sistema de informacion" color="#ff6600" meeting="false" start="2016-12-07" duration="3" complete="100" expand="true"/>
+            <task id="66" name="diagrama de transicion de estado" color="#ff6600" meeting="false" start="2016-12-09" duration="2" complete="100" expand="true"/>
+            <task id="112" name="elaboracion base de datos" color="#ff6600" meeting="false" start="2016-12-10" duration="5" complete="100" expand="true"/>
+            <task id="77" name="diseño del control del sistema de informacion" color="#006666" meeting="false" start="2017-01-23" duration="8" complete="70" expand="true"/>
+            <task id="78" name="informe seleccion de las herramientas para el montaje del sistema de informacion" color="#006666" meeting="false" start="2017-02-01" duration="10" complete="50" expand="true"/>
         </task>
-        <task id="79" name="EJECUCION" color="#006666" meeting="false" start="2017-02-11" duration="56" complete="0" expand="true">
-            <task id="80" name="planeacion para la fase de construccion del aplicativo" color="#006666" meeting="false" start="2017-02-11" duration="7" complete="0" expand="true"/>
-            <task id="81" name="identificar el entorno de trabajo de las herramientas base de datos" color="#006666" meeting="false" start="2017-02-18" duration="6" complete="0" expand="true"/>
-            <task id="82" name="creacion base de datos" color="#006666" meeting="false" start="2017-02-24" duration="15" complete="0" expand="true"/>
-            <task id="83" name="desarrollar sistemas de informacion entornco web y cliente servidor" color="#006666" meeting="false" start="2017-03-11" duration="18" complete="0" expand="true"/>
-            <task id="84" name="identificaion de las funciones de cada una de las herramientas de lenguaje de programacion" color="#006666" meeting="false" start="2017-03-29" duration="10" complete="0" expand="true"/>
+        <task id="79" name="EJECUCION" color="#006666" meeting="false" start="2017-02-11" duration="56" complete="64" expand="true">
+            <task id="80" name="planeacion para la fase de construccion del aplicativo" color="#006666" meeting="false" start="2017-02-11" duration="7" complete="65" expand="true"/>
+            <task id="81" name="identificar el entorno de trabajo de las herramientas base de datos" color="#006666" meeting="false" start="2017-02-18" duration="6" complete="80" expand="true"/>
+            <task id="82" name="creacion base de datos" color="#006666" meeting="false" start="2017-02-24" duration="15" complete="80" expand="true"/>
+            <task id="83" name="desarrollar sistemas de informacion entorno web y cliente servidor" color="#006666" meeting="false" start="2017-03-11" duration="18" complete="40" expand="true"/>
+            <task id="84" name="identificaion de las funciones de cada una de las herramientas de lenguaje de programacion" color="#006666" meeting="false" start="2017-03-29" duration="10" complete="75" expand="true"/>
         </task>
         <task id="94" name="EVALUACION" color="#660066" meeting="false" start="2017-04-10" duration="246" complete="0" expand="true">
             <task id="95" name="elaboracion manual tecnico de la aplicacion" color="#660066" meeting="false" start="2017-04-10" duration="23" complete="0" expand="true"/>
@@ -94,7 +94,6 @@
     </tasks>
     <resources>
         <resource id="6" name="LUIS MIGUEL TORRES" function="SoftwareDevelopment:2" contacts="" phone=""/>
-        <resource id="7" name="NORMA LUZ ORTIZ" function="SoftwareDevelopment:2" contacts="" phone=""/>
         <resource id="8" name="PAULA CASTRO" function="Default:1" contacts="" phone=""/>
         <resource id="9" name="NICOLAS SALGADO" function="SoftwareDevelopment:8" contacts="" phone=""/>
         <resource id="10" name="ALEJANDRA RUIZ" function="SoftwareDevelopment:5" contacts="" phone=""/>
@@ -106,12 +105,6 @@
         <allocation task-id="28" resource-id="6" function="SoftwareDevelopment:2" responsible="false" load="100.0"/>
         <allocation task-id="29" resource-id="6" function="SoftwareDevelopment:2" responsible="true" load="100.0"/>
         <allocation task-id="30" resource-id="6" function="SoftwareDevelopment:2" responsible="false" load="100.0"/>
-        <allocation task-id="13" resource-id="7" function="SoftwareDevelopment:2" responsible="true" load="100.0"/>
-        <allocation task-id="43" resource-id="7" function="SoftwareDevelopment:2" responsible="true" load="100.0"/>
-        <allocation task-id="23" resource-id="7" function="SoftwareDevelopment:2" responsible="false" load="100.0"/>
-        <allocation task-id="28" resource-id="7" function="SoftwareDevelopment:2" responsible="false" load="100.0"/>
-        <allocation task-id="29" resource-id="7" function="SoftwareDevelopment:2" responsible="false" load="100.0"/>
-        <allocation task-id="30" resource-id="7" function="SoftwareDevelopment:2" responsible="false" load="100.0"/>
         <allocation task-id="11" resource-id="8" function="Default:1" responsible="true" load="100.0"/>
         <allocation task-id="16" resource-id="8" function="Default:1" responsible="false" load="100.0"/>
         <allocation task-id="43" resource-id="8" function="Default:1" responsible="false" load="100.0"/>
